@@ -10,30 +10,21 @@ footer: true
 
 {% img left http://2.bp.blogspot.com/-WGmSAE_YLTk/UYaszZHHfVI/AAAAAAAAGno/P8mM9D85lNU/s1600/simbolo-hacker.jpg %}
 
-Que tal! mi nombre es Jacob, soy programador, aunque para ser más formales, soy desarrollador de software. No me gusta decir que soy programador de una sola tecnología ni me caracterizo por eso, como muchos otros "Programadores" lo hacen, pero eso no quiere decir que no tengo un fuerte en la matería simplemente que soy curioso y me gusta aprender cualquier cosa que este relacionada con este fascinante mundo.
+Que tal! mi nombre es Jacob, soy programador, aunque para ser más formales, soy desarrollador de software. No me gusta decir que soy programador de una sola tecnología ni me caracterizo por eso, como muchos otros "Programadores" lo hacen, pero eso no quiere decir que no tengo un fuerte en la matería simplemente que soy curioso y me gusta aprender cualquier cosa que se involucre con este fascinante mundo.
 
-Me apasiona mi carrera y disfruto de mi trabajo así como tambien del saber y aprender de la demas gente, por que eso para mi es un factor importante de aprendizaje, el relacionarte con gente que directa o indirectamente puede aportar algo que en algún momento te abrirá camino a nuevas ideas.
+Me apasiona mi carrera y disfruto de mi trabajo así como tambien del saber y aprender de la demas gente, por que eso para mi es un factor importante de aprendizaje, el relacionarte con gente que directa o indirectamente puede aportar algo que en algún momento te abrirá el panorama a nuevas ideas.
 
 No soy del tipo de personas que piensan que con una buena escuela o buena formación academica se puede formar a un buen recurso, ¡Para nada! y lo digo por experiencia propia. Yo creo más en el esfuerzo y dedicación que uno mismo le pone a lo que le gusta, por que algo muy real es la abundante cantidad de "Profesionistas" que solo hace las cosas sin objetivo alguno, sin dedicación ni entusiasmo que a final de cuentas solo cumplieron el proposito de terminar la carrera y despues ... haber que pasa. Independientemente de esto, no pretendo insinuar ni mucho menos sentirme superior a nadie, simplemente me gusta decir las cosas como las siento y así mismo se reconocer que tambien hay personas que son dignas de respetar por el gran esfuerzo que ha depositado en el camino a su formación profesional y con esto me refiero a las aportaciones que ellas mismas han sumado a su perfil sin involucrar ninguna institución educativa. 
 
-Tambien quiero mencionar que soy adicto al uso de computadoras :P , practicamente no puedo pasar un día sin hacer uso de ellas, me gusta mucho leer e informarme sobre las nuevas tecnologías así como programar para mejorar mi habilidad en la solucion de problemas :) . Queda mucho por recorrer en mi formación profesional pero considero muy divertido el proceso y es por ello que me decidí a formar este espacio para compartir mis humildes conocimientos sobre programación así como algunos otros temas de interes.
+Tambien quiero mencionar que soy adicto al uso de computadoras :P , practicamente no puedo pasar un día sin hacer uso de ellas, me gusta mucho leer e informarme sobre las nuevas tecnologías así como programar para mejorar mis habilidades en la solucion de problemas :) . Queda mucho por recorrer en mi formación profesional pero considero muy divertido el proceso y es por ello que me decidí a construir este espacio para compartir mis humildes conocimientos sobre programación, así como algunos otros temas de interes.
 
 Es importante para mí aprender de mis errores ya que es una buena manera de saber en donde reforzar mis defenzas y así poder estar preparado para futuros tropiezos. No voy a alardear de super conocimientos ya que al igual que muchos que estamos metidos en este maldito pero hermoso universo de la programación estoy aprendiendo y sigo en el camino, por ello soy propenso a cometer equivocaciones.
 
-Actualemente me encuentro desarrollando en en lenguaje de programación Java y estudiando para reforzar Python y PHP, pero como mecioné anteriormente, he tocado otras tecnologías y experimentado con otras más. Algo que he aprendido durante mi camino es que si tienes la lógica de lo que quieres y con un poco de estudio puedes programar en variedad de lenguajes :) .
-
-Algunas de las tecnologías que he manejado son:
-
-Lenguajes de programación, frameworks y demás: Java, Python, PHP, ActionScript, Struts, Spring, Hibernate, RichFaces, JasperReports, SpringSecurity, JQuery, FusionCharts, etc.
-
-Base de datos: Oracle, MySQL, Sybase, HQLDB, SQLite.
-
-Servidores: Apache Tomcat, OpenFire, WebLogic, XAMPP, etc.
-
-Entre algunas otras más ... 
-
+Actualemente me encuentro desarrollando en en lenguaje de programación Java y estudiando para reforzar Python y PHP, pero como mecioné anteriormente, hago uso otras tecnologías y experimento con otras más para así incrementar mi repositorio de conocimientos. Algo que he aprendido durante mi camino es que sin importar lo dificil que parezcan las cosas o que tan mal pinte el panorama, con un poco de esfuerzo y dedicación puedes lograr grandes cosas :) y eso es un consejo que puedo dar a quienes inician en esto de la programación, así que ... manos al teclado! y a echar a volar la imaginación.
 
 Bueno! esto es un resumen de mí lado tecnológico, espero ser de ayuda para aquellos que quieran aprender y para los que no tambien :P
+
+Saludos.
 
 
 
