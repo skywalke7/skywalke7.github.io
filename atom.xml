@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://www.dojogeek.mx/atom.xml" rel="self"/>
   <link href="http://www.dojogeek.mx/"/>
-  <updated>2013-12-04T10:15:43-06:00</updated>
+  <updated>2013-12-04T13:15:36-06:00</updated>
   <id>http://www.dojogeek.mx/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Exit]]></title>
-    <link href="http://www.dojogeek.mx/blog/2013/12/02/exit/"/>
-    <updated>2013-12-02T17:03:18-06:00</updated>
-    <id>http://www.dojogeek.mx/blog/2013/12/02/exit</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
