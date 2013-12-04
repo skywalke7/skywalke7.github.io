@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://www.dojogeek.mx/blog/2013/12/02/exit/</loc>
+        <lastmod>2013-12-02T17:03:18-06:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.dojogeek.mx/robots.txt</loc>
         <lastmod>2013-11-27T11:30:16-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.dojogeek.mx/</loc>
-        <lastmod>2013-11-27T11:30:16-06:00</lastmod>
+        <lastmod>2013-12-02T17:03:18-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.dojogeek.mx/blog/archives/</loc>
-        <lastmod>2013-11-27T11:30:16-06:00</lastmod>
+        <lastmod>2013-12-02T17:03:18-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.dojogeek.mx/about/</loc>
-        <lastmod>2013-11-28T17:51:07-06:00</lastmod>
+        <lastmod>2013-12-02T11:32:10-06:00</lastmod>
     </url>
 </urlset>
